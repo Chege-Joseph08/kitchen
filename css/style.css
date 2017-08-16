@@ -123,6 +123,16 @@ span{
 	background-size: cover;
 	min-height: 237px;
 	text-align:center;
+
+}
+
+.happy-4{
+	background: url(../images/3.jpg) no-repeat;
+	display: block;
+	background-size: cover;
+	min-height: 237px;
+	text-align:center;
+
 }
 .y-4{
 	background: url(../images/3.jpg) no-repeat;
