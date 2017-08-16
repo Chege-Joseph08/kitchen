@@ -124,7 +124,7 @@ span{
 	min-height: 237px;
 	text-align:center;
 }
-.happy-4{
+.y-4{
 	background: url(../images/3.jpg) no-repeat;
 	display: block;
 	background-size: cover;
@@ -182,7 +182,7 @@ span{
 }
 .happy-1 h6:hover{
 	background: #E4E5E7;
-	color:#333333
+	color:#333333;
 }
 .fast-right h3{
 	font-size: 2.5em;
