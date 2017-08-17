@@ -392,7 +392,7 @@ i.arrow-rt1 {
 
 .Slider {
 	position: relative;
-	overflow: hidden;
+	overflow: ;
 }
 .Slider .SliderWrapper article img {
 	max-width: 100%;
